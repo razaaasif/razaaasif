@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 email :aasifraza9123@gmail.com
 Mobile number : 9123158952
-adress : new Delhi
+Address : New Delhi
 
 <!---
 razaaasif/razaaasif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
